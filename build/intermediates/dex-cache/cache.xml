@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_9e81cab84f65ad0972ed911c05fb36184b2360c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.00_26b79148a49e1031dd1977552387f0a682147855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.00_7112c1711c6a1e4fdecef62c6824de0c48d6f7b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.00_01f91075ec3884bbbc7b46c0e2d8b213dd90bc8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.00_7544e8aa98f09b8a2fedbaccc3ba0a7454f86e1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.00_71a3c6d51915f786d9d155fa331c2ed0c65a6db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f015b338eac446484ed5e9f7cc626c4d1a6af05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.00_d3b095ea528e3d7bf3e3ef0684a5dc058f8d1360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.00_7aa061fbaebb2ac53520c523e3686bc80b517ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.00_074308950a9d35f8fadce5c33a76d383737bdbc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.00_9a721489a535ac487e5b933e76e8f9b656213a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.00_9adf8c76dc5049ae969e29988b92fd7594ee3f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2a2af14cede44d66616c04814a68c89595ceb668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aa6a8d7c8f5534d71255d9f71d863275ae0f0dbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.00_230f5ad438e4a00af7f385fca03e66a4246f0981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.00_e1b363bebe31e58c62c306011a8063dc8a2e8f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.00_70ce66ffa9ac0d6de46ae130dcf8254cff712b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_54077197f4ffb9c45a34604adfb766fb57c12ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.00_ceb710201b17114abd9f8899c4d61b05d8219b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_97afac654fd0615889d339690e730fef24ab2091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.00_20937e0b3712f9869de2207cdf31107994fd2f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.00_3044cf75befc82f55f7962e66530295c289a0eba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.00_64f0ca8c69f1aecf8ef0d4397c60acf6bcf9369a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.00_1fd57f0f96c60cd128729ed692c1de3d2062d863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.00_8c27a2183cb2263068748bec6037d24888749a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.00_bd42e3f9a9fa2a64f8fa344c20b41f9a6c9da14b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_63f63bb06a339972dd226102503fc95b7b99a53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.00_65a695f6e9b22cee6b528d1431dcabe67ac161e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b97bfd6d735562dc22ee5451fa970e31fd57d647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.00_211a36b23934bf47653f8eec679e3627a5d8f8d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.00_46b1263013d57aa0065e9e22e3ff35696ecf12d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_e36469a1a7575e6d8b6dc519856619b11829008b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.00_2b090bd1afe357c7c8959f26f3528242b1d8f699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.00_85e6588a3feab8ccc7068d2eb1e7b4dc643fda20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.00_22828fd6a3b095e8fd7b4c4fd87d2b7519bb0efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b05a05114978029776123cd23a80106e1f5f1f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.00_bc64f70f563f2dd0b4ccb31a9afbd205b2eaaca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_fa0438c98197bc3b5a37c8ca81d4e5f552443247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.00_9d313f1de3f0670b4382c5043466d8b762548d3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.00_650085bb4829eec67f54c219b3af7255ca6c7974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.00_abbb184e9009053c33c423549110f90a2fd6d4a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.00_4af6352b3dc243dc7d23f4ce5d40b98f4104c04e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.00_8e53402ae508b59a948deda82c5ee3aa3be4f553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.00_534d600bdfe330c7c0fa64cc9740145ee44977a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\libs\android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1e1909ad606829e243c57b5dd37171ed6349456b">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android_62806b5632a9688d97bac3881aef7c57ca094b4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.00_94b09c779de0eb930ef449dfdfe4c76383e35c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.00_49a11a8a0941dda568aedd094883c4b450fe47ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec5410ad584b965491d1bcc0aabcc2d85c3579e4">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8ec070bfe0178430d2c010fc5a0612640850568d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c114ce00e13dd08a8a7761d1017b88e22b7a6070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_a32825561d6cd21b9bc430b116f5d775a16314ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.00_3acfbe7b24812fd35c636afa71936906030967cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_4561ee57ea3578dd715cea36d786ee15bb5d7c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.00_8526bd1cfda44f6a4123f9de47706dd7749741b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.00_2c21004022441132988dd2f1338f38c74ad79bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.00_bae05f14f2971ca154b5fd2a190a688e945eae97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c55598814152617d0bf96b9e6e0308d4a3e6d912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.00_521c311aedfb08dcdb650df219ef1a31b58acc41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_1bb9b1e77dd1c1cddcb1864888ad793e77394ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.00_fcd3926b125bc11b22db0ed188af5ce8408c5328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c16fa269940f20862de89f14b82d8b725eac3f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.00_95da8f7f447835de62ebd4a1076d42b3202b8664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.00_01c28e1412871dfb543d8abc0fbda2a010723c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.00_2ee3cf92c34f7b7d93226e2cfb0a14d0a7ff7642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e3caeb57e9ea4ab35734da581baa42b50ef93a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f204249f3489b5539ce9053adbf5b0b36a57874a">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4936d612f7f19c2ad44abfbb5d2877fb0bfe83ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.00_8e25c75e2ad32fbf90c68db26aa2825f399b4770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.00_f17bad6c6cc6aa38fe8fcf6f67ca10fa174c133a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.00_04450dcd46cde311b127488f6edb2d28ccb60c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_27a8415b74be376e76ead021454cae1ee97d0ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.00_edaae0120bd96b1bd3d35943e89e998a8074742b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_ec257b0cab7fa6733d63757655466d7c79045f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Mark\Desktop\srs2AS\Stream Radio 2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.00_06513bd3325353d1b9ab25dd17c1bb8596a97bcc\classes.dex" />
+    </item>
+
+</items>
